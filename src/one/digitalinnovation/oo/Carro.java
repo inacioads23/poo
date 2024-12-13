@@ -26,7 +26,7 @@ public class Carro {
 		return cor;
 	}
 
-	/* set - permite inserir um valor no atributos */
+	/* set - permite inserir um valor no atributo */
 	public void setCor(String cor) {
 		this.cor = cor;
 	}
