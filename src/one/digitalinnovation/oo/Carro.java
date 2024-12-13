@@ -13,7 +13,7 @@ public class Carro {
 
 	}
 
-	/* Constutor com parâmetros - exemplo de sobrecarga */
+	/* Construtor com parâmetros - exemplo de sobrecarga */
 	public Carro(String cor, String modelo, int capacidadeTanque) {
 		this.cor = cor; //o this está dizendo que o valor que entrar através do construtor, irá ser atribuido aos Atributos
 		this.modelo = modelo;
