@@ -1,4 +1,4 @@
-package one.digitalinnovation.oo.estruturaBasica;
+package dio.oo.estruturaBasica;
 
 public class RodarAplicacao {
 
