@@ -1,4 +1,4 @@
-package dio.oo.asRelacoes.heranca.PolimorfismoSobrescrita;
+package dio.oo.asRelacoes.heranca.polimorfismoSobrescrita;
 
 public class ClasseFilha1 extends ClasseMae {
 	
