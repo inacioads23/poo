@@ -1,4 +1,4 @@
-package dio.oo.apenasInterface;
+package dio.oo.apenasInterface.equipamentos.copiadora;
 
 public class Copiadora {
 	

@@ -1,4 +1,4 @@
-package dio.oo.apenasInterface;
+package dio.oo.apenasInterface.equipamentos.impressora;
 
 public class Impressora {
 	

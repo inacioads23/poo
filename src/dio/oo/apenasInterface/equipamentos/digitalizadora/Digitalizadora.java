@@ -1,4 +1,4 @@
-package dio.oo.apenasInterface;
+package dio.oo.apenasInterface.equipamentos.digitalizadora;
 
 public class Digitalizadora {
 	
