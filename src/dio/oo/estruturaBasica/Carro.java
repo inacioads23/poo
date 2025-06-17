@@ -2,11 +2,13 @@ package dio.oo.estruturaBasica;
 
 public class Carro {
 
+	// AULA 03.2
 	// Atributos
 	String cor;
 	String modelo;
 	int capacidadeTanque;
 
+	// AULA 03.3
 	// Construtor
 	/* Construtor 1 - vazio */
 	public Carro() {
