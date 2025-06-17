@@ -1,4 +1,4 @@
-package dio.oo.estruturaBasica;
+package dio.oo.estruturaBasica.aula3;
 
 //AULA 03.4
 public class RodarAplicacao {
